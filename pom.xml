@@ -9,7 +9,7 @@
 
 	<properties>
 		<spring.version>4.3.5.RELEASE</spring.version>
-		<spring.security.version>4.1.4.RELEASE</spring.security.version>
+		<spring.security.version>5.3.3.RELEASE</spring.security.version>
 		<hiberante.version>4.3.11.Final</hiberante.version>
 	</properties>
 	<build>
